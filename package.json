@@ -1,0 +1,24 @@
+{
+  "name": "first-package",
+  "version": "1.0.0",
+  "description": "my first npm package (for learning)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MouadBNL/first-package.git"
+  },
+  "keywords": [
+    "test",
+    "first-package",
+    "npm"
+  ],
+  "author": "Mouad Benali <mouadbnl.2k01@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MouadBNL/first-package/issues"
+  },
+  "homepage": "https://github.com/MouadBNL/first-package#readme"
+}
