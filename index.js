@@ -11,7 +11,7 @@ function shadowizard({
 {
     let dom = document.querySelectorAll('[m-sw]');
 
-    if(options.shadow_type === "hard")
+    if(shadow_type === "hard")
         blur = "0px";
 
     dom.forEach(el => {

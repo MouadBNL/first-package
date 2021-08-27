@@ -1,6 +1,6 @@
 {
   "name": "mouadbnl-first-package",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "my first npm package (for learning)",
   "main": "index.js",
   "scripts": {
